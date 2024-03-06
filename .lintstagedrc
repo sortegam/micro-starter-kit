@@ -1,0 +1,3 @@
+{
+  "*.{js,jsx,ts,svelte,cjs,mjs}": ["eslint"]
+}
