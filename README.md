@@ -3,7 +3,7 @@
 ## µStarter-Kit Sass Starter based on SvelteKit
 
 ```
-⚠️ This is a BETA under active development. Some feature might not work properly.
+⚠️ This is a BETA. Some feature might not work properly.
 
 Feel free to reach me out (X - @sortegam) if you use this Starter Kit on your project. I would be happy to know about it :)
 ```
